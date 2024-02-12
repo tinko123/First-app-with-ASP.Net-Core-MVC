@@ -1,0 +1,15 @@
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\bin\Debug\net6.0\MVCIntroDemo.Core.deps.json
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\bin\Debug\net6.0\MVCIntroDemo.Core.dll
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\bin\Debug\net6.0\MVCIntroDemo.Core.pdb
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\bin\Debug\net6.0\MVCIntroDemo.Infrastructure.dll
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\bin\Debug\net6.0\MVCIntroDemo.Infrastructure.pdb
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\obj\Debug\net6.0\MVCIntroDemo.Core.csproj.AssemblyReference.cache
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\obj\Debug\net6.0\MVCIntroDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\obj\Debug\net6.0\MVCIntroDemo.Core.AssemblyInfoInputs.cache
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\obj\Debug\net6.0\MVCIntroDemo.Core.AssemblyInfo.cs
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\obj\Debug\net6.0\MVCIntroDemo.Core.csproj.CoreCompileInputs.cache
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\obj\Debug\net6.0\MVCIntroDemo.Core.csproj.CopyComplete
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\obj\Debug\net6.0\MVCIntroDemo.Core.dll
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\obj\Debug\net6.0\refint\MVCIntroDemo.Core.dll
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\obj\Debug\net6.0\MVCIntroDemo.Core.pdb
+D:\GitHub\MVCIntroDemo\MVCIntroDemo.Core\obj\Debug\net6.0\ref\MVCIntroDemo.Core.dll
